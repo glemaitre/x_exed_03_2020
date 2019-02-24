@@ -4,6 +4,7 @@ dependencies:
   - numpy
   - scipy
   - pandas
+  - geopandas
   - matplotlib
   - seaborn
   - bokeh
