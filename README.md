@@ -4,7 +4,8 @@ Introduction to scientific computing
 Instructors
 -----------
 
-- [Guillaume Lemaitre](https://glemaitre.github.io/)  [@glemaitre](https://github.com/glemaitre) - Inria, Université Paris-Saclay
+- [Guillaume Lemaitre](https://glemaitre.github.io/)  [@glemaitre](https://github.com/glemaitre) - Inria
+- [Demian Wassermann](http://pages.saclay.inria.fr/demian.wassermann/)  [@demianw](https://github.com/demianw) - Inria
 
 ---
 
@@ -15,12 +16,12 @@ If you have a GitHub account, it is probably most convenient if you clone or
 fork the GitHub repository. You can clone the repository by running:
 
 ```bash
-git clone https://github.com/glemaitre/x_exed_10_2018.git
+git clone https://github.com/glemaitre/x_exed_03_2019.git
 ```
 
 If you are not familiar with git or don’t have an
 GitHub account, you can download the repository as a .zip file by heading over
-to the GitHub repository (https://github.com/glemaitre/x_exed_10_2018) in
+to the GitHub repository (https://github.com/glemaitre/x_exed_03_2019) in
 your browser and click the green “Download” button in the upper right.
 
 Please note that we may add and improve the material until shortly before the
@@ -46,6 +47,7 @@ This tutorial will require recent installations of
 - [matplotlib](http://matplotlib.org)
 - [seaborn](https://seaborn.pydata.org/)
 - [pandas](http://pandas.pydata.org)
+- [geopandas](http://geopandas.org/)
 - [pillow](https://python-pillow.org)
 - [scikit-learn](http://scikit-learn.org/stable/)
 - [IPython](http://ipython.readthedocs.org/en/stable/)
