@@ -16,12 +16,12 @@ If you have a GitHub account, it is probably most convenient if you clone or
 fork the GitHub repository. You can clone the repository by running:
 
 ```bash
-git clone https://github.com/glemaitre/x_exed_03_2019.git
+git clone https://github.com/glemaitre/x_exed_10_2019.git
 ```
 
 If you are not familiar with git or don’t have an
 GitHub account, you can download the repository as a .zip file by heading over
-to the GitHub repository (https://github.com/glemaitre/x_exed_03_2019) in
+to the [GitHub repository](https://github.com/glemaitre/x_exed_10_2019) in
 your browser and click the green “Download” button in the upper right.
 
 Please note that we may add and improve the material until shortly before the
@@ -35,7 +35,6 @@ git pull origin master
 
 If you don’t have a GitHub account, you may have to re-download the .zip
 archive from GitHub.
-
 
 Installation Notes
 ------------------
@@ -59,8 +58,7 @@ such as [Anaconda](https://www.anaconda.com/download/ "Anaconda"), which include
 the most relevant Python packages for science, math, engineering, and
 data analysis; Anaconda can be downloaded and installed for free
 including commercial use and redistribution.
-The code examples in this tutorial should be compatible to Python 2.7,
-Python 3.4-3.6.
+The code examples in this tutorial should be compatible to Python 3.5-3.7.
 
 We provided an `environment.yml` file allowing to specifically install
 the required packages into a specific `conda` environment. You can
@@ -82,7 +80,7 @@ You will be able to use Jupyter Lab or Notebook by executing either:
 jupyter notebook
 ```
 
-or 
+or
 
 ``` bash
 jupyter lab
